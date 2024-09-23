@@ -1,0 +1,6 @@
+[submodule "Plugins/UnrealCSharp"]
+	path = Plugins/UnrealCSharp
+	url = https://github.com/UnrealKiller/UnrealCSharp
+[submodule "Plugins/GameBasic"]
+	path = Plugins/GameBasic
+	url = https://github.com/UnrealKiller/GameBasic.git
